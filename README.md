@@ -17,8 +17,12 @@ This project is a web application that allows users to search for movies using t
    The project is hosted online, providing working links to the application and its source code.
 
 Tech Stack
+
 Frontend: HTML, CSS, JavaScript
+
 Backend: PHP
+
 Database: MySQL
+
 API Used: OMDB
 
